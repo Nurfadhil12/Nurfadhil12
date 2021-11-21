@@ -76,7 +76,7 @@ don't dream life but live your dream.
 <div style="margin: 0 5px">
 </div>
 <div>
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurfadhil12&layout=compact&show_icons=true&theme=algolia" alt="Nurfadhil" />
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=algolia" alt="Nurfadhil" />
 </div>
 </div>
 
