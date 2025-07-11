@@ -65,6 +65,3 @@ I'm passionate about **building scalable web apps**, crafting **clean UI**, and 
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nurfadhil12/Nurfadhil12/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
