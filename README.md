@@ -19,7 +19,7 @@
 Hi! I'm **Nur Fadhil Aminullah**, a 22-year-old fullstack developer from Indonesia.
 I'm passionate about **building scalable web apps**, crafting **clean UI**, and writing **efficient backend code**.
 
-- 🔭 Working on **Voculyn Web Platform**
+- 🔭 Working on **Sonar Web Platform**
 - 🌱 Learning: **TypeScript**, **Framer Motion**, **Astro**
 - 💬 Ask me about **Next.js**, **Tailwind CSS**, and **web performance**
 - ☕ Fun fact: I code best while listening to lofi beats
