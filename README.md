@@ -1,83 +1,91 @@
-## Hii there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.instagram.com/nurfadhilaminullah/">
-  <img align="left" alt="Nurfadhil Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
-</a>
-<!-- <a href="https://twitter.com/aidonkeer?s=08">
-  <img align="left" alt="Nurfadhil Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> -->
-<a href="https://www.linkedin.com/in/nur-fadhil-2202ba190/">
-  <img align="left" alt="Nurfadhil LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<!-- <a href="https://www.facebook.com/algaroow">
-  <img align="left" alt="Nurfadhil Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a> -->
+## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<br />
-<br />
+[![Instagram](https://img.shields.io/badge/@nurfadhilaminullah-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nurfadhilaminullah/)
+[![LinkedIn](https://img.shields.io/badge/Nur%20Fadhil%20Aminullah-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-fadhil-2202ba190/)
 
-Hello, my name is Nur Fadhil Aminullah, you can call me Fadhil.
-I am 18 years old. I'm a creative enthusiast, currently focusing more on Web development and it seems like I'm hungry for knowledge about the digital creative world. 
+---
 
+Hello, my name is **Nur Fadhil Aminullah**, you can call me **Fadhil**.  
+I’m 18 years old and a creative enthusiast. Currently focusing on **Web Development** and always hungry to learn more about the digital creative world.
 
-  <!-- <img align="right" style="margin-left: 10px" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?raw=true" width="450" height="300" /> -->
+- 💬 Ask me about anything, let’s discuss and learn together!  
+- 📫 Reach me at **nurfadhil138@gmail.com**
 
+---
 
-- 💬 Ask me about anything,Let we discuss together!
-- 📫 Reach me at <i>nurfadhil138@gmail.com</i>
-<!-- - 📝 [Achievements](https://drive.google.com/drive/folders/1ayJ7Zg_zJbVlpW4kIWq_tlTAahvNgmyY?usp=sharing) -->
+### 🛠 Languages & Tools
 
-**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png"></code>
 
-<code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-</code>
-<code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-</code>
-<code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-</code>
-<code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-</code>
-<code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
-</code>
-<code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-</code>
-<code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-</code>
-<code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-</code>
-<code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-</code>
-<code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>
+---
 
+### 📜 Quote of the Day
 
-📊 **Quote Of The Day is:**
-<!--START_SECTION:waka-->
 ```text
 don't dream life but live your dream.
-```
-<!--END_SECTION:waka-->
 
-📈 My GitHub Stats
 
-<div style="display: inline-flex;margin-top: 10px;justify-content: space-evenly">
-<div>
-<p> <img src="https://github-readme-stats.vercel.app/api?username=Nurfadhil12&show_icons=true&theme=algolia" alt="Nurfadhil" />
-</div>
-<div style="margin: 0 5px">
-</div>
-<div>
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=algolia" alt="Nurfadhil" />
-</div>
-</div>
+<h1 align="center">Hi 👋, I'm Fadhil</h1>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=440&lines=I+build+cool+web+interfaces;I+love+React+%2F+Next.js;Clean+UI+%2B+Reusable+Components" />
+</p>
+
+---
+
+- 🔭 I’m currently working on **Voculyn Web Platform**
+- 🌱 I’m currently learning **TypeScript, Framer Motion, and Astro**
+- 👯 I’m looking to collaborate on **UI libraries & open source**
+- 💬 Ask me about **Next.js, Tailwind CSS, or Web Performance**
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/namamu) • [Instagram](https://instagram.com/namamu)
+- 🧠 Fun fact: I write code while listening to lofi beats ☕🎧
+
+---
+
+### 🛠️ Tech Stack
+
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=namakamu&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namakamu&layout=compact&theme=radical" width="300" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/namamu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:emailkamu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/namakamu/namakamu/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
 
 
