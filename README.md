@@ -16,8 +16,8 @@
 
 ### 👨‍💻 About Me
 
-Hi! I'm **Nur Fadhil Aminullah**, a 22-year-old creative developer from Indonesia.  
-I'm passionate about **frontend development**, clean UI, and reusability.
+Hi! I'm **Nur Fadhil Aminullah**, a 22-year-old fullstack developer from Indonesia.
+I'm passionate about **building scalable web apps**, crafting **clean UI**, and writing **efficient backend code**.
 
 - 🔭 Working on **Voculyn Web Platform**
 - 🌱 Learning: **TypeScript**, **Framer Motion**, **Astro**
