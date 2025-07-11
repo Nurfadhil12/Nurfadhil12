@@ -6,7 +6,7 @@
 ---
 
 Hello, my name is **Nur Fadhil Aminullah**, you can call me **Fadhil**.  
-I’m 18 years old and a creative enthusiast. Currently focusing on **Web Development** and always hungry to learn more about the digital creative world.
+I’m 22 years old and a creative enthusiast. Currently focusing on **Web Development** and always hungry to learn more about the digital creative world.
 
 - 💬 Ask me about anything, let’s discuss and learn together!  
 - 📫 Reach me at **nurfadhil138@gmail.com**
@@ -27,12 +27,6 @@ I’m 18 years old and a creative enthusiast. Currently focusing on **Web Develo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png"></code>
 
 ---
-
-### 📜 Quote of the Day
-
-```text
-don't dream life but live your dream.
-
 
 <h1 align="center">Hi 👋, I'm Fadhil</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
@@ -87,5 +81,13 @@ don't dream life but live your dream.
 <p align="center">
   <img src="https://raw.githubusercontent.com/namakamu/namakamu/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
+
+
+### 📜 Quote of the Day
+
+```text
+don't dream life but live your dream.
+
+
 
 
